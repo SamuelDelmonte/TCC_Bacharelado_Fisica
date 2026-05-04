@@ -4,7 +4,7 @@ Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This rese
 
 
 [![Python](https://shields.io)](https://python.org)
-[![PySR](https://shields.io)](https://github.com)
+[[PySR](https://shields.io)](https://github.com)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projeto explora a interseção entre **Mecânica Quântica** e **Aprendizado de Máquina**, utilizando Regressão Simbólica para redescobrir leis físicas a partir de dados numéricos.
