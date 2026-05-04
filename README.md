@@ -41,6 +41,14 @@ Demonstrar a eficácia da **Regressão Simbólica** na identificação da estrut
 - `reg_simbolica_xx.ipynb`: Implementação da busca por equações via PySR.
 - `correcao_final.pdf`: Texto completo da monografia com a fundamentação teórica.
 
+  ### 📓 Navegação pelos Notebooks
+Explore as etapas do projeto diretamente:
+
+*   **[Simulações Numéricas](./notebooks/):** Notebooks de 01 a 06 focados na geração da função de onda e base de dados.
+*   **[Regressão Simbólica](./notebooks/):** Notebooks focados na busca das equações analíticas via PySR.
+*   **[Monografia Completa](./docs/correcao_final.pdf):** PDF com a fundamentação teórica e discussão dos resultados.
+
+
 ## 💡 Destaque Científico
 
 A técnica utilizada (PySR) busca não apenas ajustar curvas, mas encontrar a **expressão analítica** que rege o fenômeno, permitindo uma interpretabilidade física que redes neurais "caixa-preta" não oferecem.
