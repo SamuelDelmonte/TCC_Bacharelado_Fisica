@@ -1,19 +1,7 @@
 # Reinterpretação da Equação de Schrödinger via Regressão Simbólica (PySR) ⚛️🤖
 
 Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This research explores the intersection of Quantum Mechanics and Interpretable Machine Learning. By leveraging Symbolic Regression, the project demonstrates how AI can "rediscover" fundamental physical laws—specifically the Infinite Potential Well—from numerical data. Unlike black-box neural networks, this approach focuses on mathematical transparency and scientific interpretability.
-<div> 
-  <ul style="text-decoration:none;"> 
-    <li>
-      <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png"> </a>
-    </li>
-        <li>
-      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png"> </a>
-        </li>
-    <li>
-            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png"> </a>
-    </li>
-</ul>
-</div>
+
 Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projeto explora a interseção entre **Mecânica Quântica** e **Aprendizado de Máquina**, utilizando Regressão Simbólica para redescobrir leis físicas a partir de dados numéricos.
 
 ---
