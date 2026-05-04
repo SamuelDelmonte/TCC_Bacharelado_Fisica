@@ -23,7 +23,7 @@ Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projet
         </span>
         
  <span>
-            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png" width="200" height="200"> </a>
+            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png"> </a>
     </span>
   
 </body>
