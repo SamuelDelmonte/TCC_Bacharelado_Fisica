@@ -13,21 +13,22 @@ Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projet
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
 
-  <span> 
-      <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png"> </a>
+<span> 
+      <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png" width="250" height="165"> </a>
     </span>
-        <span>
-      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png"> </a>
+  
+    
+ <span>
+      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png" width="300" height="200"> </a>
         </span>
-  <span>
-            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png"> </a>
+        
+ <span>
+            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png" width="200" height="200"> </a>
     </span>
+  
 </body>
 </html>
-
 
 ## 🎯 Objetivo
 
