@@ -5,6 +5,29 @@ Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This rese
 Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projeto explora a interseção entre **Mecânica Quântica** e **Aprendizado de Máquina**, utilizando Regressão Simbólica para redescobrir leis físicas a partir de dados numéricos.
 
 ---
+<!DOCTYPE html>
+<html>
+<head>
+
+  
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+  <span> 
+      <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png"> </a>
+    </span>
+        <span>
+      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png"> </a>
+        </span>
+  <span>
+            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png"> </a>
+    </span>
+</body>
+</html>
+
 
 ## 🎯 Objetivo
 
