@@ -7,10 +7,10 @@ Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This rese
       <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png"> </a>
     </li>
         <li>
-      <a href="https://github.com" style="float:left;"> <img src="img/download_02.png"> </a>
+      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png"> </a>
         </li>
     <li>
-            <a href="https://opensource.org" style="float:left;"> <img src="img/pngwing.com.png"> </a>
+            <a href="https://opensource.org" style="width: 30%;"> <img src="img/pngwing.com.png"> </a>
     </li>
 </ul>
 </div>
