@@ -2,7 +2,7 @@
 
 Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This research explores the intersection of Quantum Mechanics and Interpretable Machine Learning. By leveraging Symbolic Regression, the project demonstrates how AI can "rediscover" fundamental physical laws—specifically the Infinite Potential Well—from numerical data. Unlike black-box neural networks, this approach focuses on mathematical transparency and scientific interpretability.
 <div> 
-  <ul> 
+  <ul style="text-decoration:none;"> 
     <li>
       <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png"> </a>
     </li>
