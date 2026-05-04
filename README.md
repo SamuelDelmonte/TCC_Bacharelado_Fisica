@@ -19,7 +19,7 @@ Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projet
   
     
  <span>
-      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png" width="300" height="200"> </a>
+      <a href="https://github.com" style="width: 30%;"> <img src="img/download_02.png"> </a>
         </span>
         
  <span>
