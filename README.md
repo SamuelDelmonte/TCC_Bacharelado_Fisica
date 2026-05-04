@@ -4,14 +4,13 @@ Reinterpreting the Schrödinger Equation via Symbolic Regression (PySR)This rese
 <div> 
   <ul> 
     <li>
-      <a href="https://python.org" style="float:left;"> <img src="img/download_01.png"> </a>
+      <a href="https://python.org" style="color:red;"> <img src="img/download_01.png"> </a>
     </li>
         <li>
       <a href="https://github.com" style="float:left;"> <img src="img/download_02.png"> </a>
         </li>
     <li>
             <a href="https://opensource.org" style="float:left;"> <img src="img/pngwing.com.png"> </a>
-
     </li>
 </ul>
 </div>
