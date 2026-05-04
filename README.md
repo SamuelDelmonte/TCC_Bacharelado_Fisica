@@ -13,7 +13,6 @@ Trabalho de Conclusão de Curso (TCC) para o Bacharelado em Física. Este projet
 </head>
 <body>
 
-
 <span> 
       <a href="https://python.org" style="width: 30%;"> <img src="img/download_01.png" width="250" height="165"> </a>
     </span>
