@@ -34,3 +34,4 @@ jobs:
 
     - name: Publish package to PyPI
       uses: pypa/jwt-publisher-action@main
+
