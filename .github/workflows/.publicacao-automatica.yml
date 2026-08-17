@@ -1,0 +1,30 @@
+name: Publicacao Automatica de Conteudo
+
+on:
+  # Dispara o fluxo automaticamente todos os dias às 08:00 AM UTC
+  schedule:
+    - cron: '0 8 * * *'
+  # Permite rodar o fluxo manualmente se necessário
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do Código
+      uses: actions/checkout@v4
+
+    - name: Configurar Ambiente Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-node: '20'
+
+    - name: Instalar Dependências
+      run: npm install
+
+    - name: Executar Script de Publicação
+      env:
+        API_TOKEN_REDES_SOCIAIS: ${{ secrets.API_TOKEN_REDES_SOCIAIS }}
+        WORDPRESS_APP_PASSWORD: ${{ secrets.WORDPRESS_APP_PASSWORD }}
+      run: node scripts/publish.js
